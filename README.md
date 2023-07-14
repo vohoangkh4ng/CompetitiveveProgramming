@@ -5,4 +5,5 @@ Codeforces
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1946|[Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [C++](./algorithms/cpp/largestNumberAfterMutatingSubstring/LargestNumberAfterMutatingSubstring.cpp), [Java] | Easy
+|1946|[Beginner Free Contest 53 - POTM
+]([https://leetcode.com/problems/largest-number-after-mutating-substring/](https://oj.vnoi.info/problem/fcb053_potm)) | [C++](./algorithms/cpp/largestNumberAfterMutatingSubstring/LargestNumberAfterMutatingSubstring.cpp), [Java] | Easy
