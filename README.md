@@ -1,10 +1,7 @@
-LeetCode
+Codeforces
 ========
 
-### LeetCode Algorithm
-
-(Notes: "🔒" means you need to buy a book from Leetcode)
-
+### Codeforces CP
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
